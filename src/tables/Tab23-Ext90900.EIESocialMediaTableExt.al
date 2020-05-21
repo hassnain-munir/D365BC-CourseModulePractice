@@ -1,4 +1,4 @@
-tableextension 90900 "EIE Socail Media" extends Customer
+tableextension 90900 "EIE Socail Media" extends Vendor
 {
     fields
     {

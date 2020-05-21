@@ -1,4 +1,4 @@
-pageextension 90900 "EIE Social Media Card" extends "Customer Card"
+pageextension 90900 "EIE Social Media Card" extends "Vendor Card"
 {
     layout
     {
